@@ -1,0 +1,99 @@
+  
+   Topics Covered Variable,datatypes,Operators and Casting
+
+   Example programs:
+
+   1)Get Input for variable name and age.Print it
+    
+     Sample Input:
+     EMC
+     1
+     Sample Output:
+     "My Name is: EMC"
+     "My Age is: 1"
+
+     Program:
+ 
+     name=input()
+     age=input()
+     print("My Name is:",name)
+     print("My Age is:",age)
+
+   2)Get Input for variable name,age and address.print it
+
+     Sample Input:
+     Ashwin
+     21
+     Sampath Nagar,Erode
+     Sample Output:
+     "My Name is: Ashwin"
+     "My Age is: 21" 
+     "My Address is: Sampath Nagar,Erode"
+
+     Program:
+
+     name=input()
+     age=input()
+     address=input()
+     print("My Name is:",name)
+     print("My Age is:",age)
+     print("My Address is:",address)
+
+   3)Get Integer Input for Variable a,b,c
+     Multiply all three variables(a*b*c)
+     add all 3 variables(a+b+c)
+     Divide the multiplied value by Added Values
+     print it
+
+     Sample Input:
+
+     2
+     3
+     4
+
+     Sample Output:
+
+     2.6
+
+     Output Explanation:
+
+     2*3*4=24
+     2+3+4=9
+     24/9=2.6
+
+    4)Get Input for variable Name,Score and department
+      Get score for 100;
+      Divide 100/10
+
+      Sample Input:
+      Rahul
+      89
+      Computer
+
+      Sample Output:
+      "My Name is Ashwin"
+      "My Score is 8.9/10"
+      "My Department is Computer"
+
+       Program:
+
+       name=input()
+       score=int(input())
+       department=input()
+       print("My Name is",name)
+       print("My Name is",score/10,"/10")
+       print("My Department is",department)
+
+
+ 
+
+      
+
+            
+
+
+     
+
+
+
+		
